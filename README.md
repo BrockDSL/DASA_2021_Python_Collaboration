@@ -5,7 +5,7 @@
 
 
 
-DSL and DASA started a partnership to provide focused hands on tutorials that taught real on the ground skills in the topics of digital scholarship and data science. For the fall of 2021 this partnership will be a four part workshop outlined below.
+The Brock [DSL](https://brocku.ca/library/dsl) and Goodman [DASA](https://www.goodmandasa.com/) organizations started a partnership to provide focused hands on tutorials that taught real on the ground skills in the topics of digital scholarship and data science. For the fall of 2021 this partnership will be a four part workshop outlined below.
 
 
 
