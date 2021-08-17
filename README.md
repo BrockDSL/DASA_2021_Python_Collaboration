@@ -1,7 +1,5 @@
 # DSL / DASA Fall 2021 Workshop Series
 
-[TOC]
-
 
 ## The Series
 
@@ -16,23 +14,23 @@ The dataset used for this workshop series can be found on the [UC Irvine Machine
 
 ### Session 1: Introduction to Python
 
-** Wednesday September 29, 5:00 - 6:30 PM (online via [Zoom]())**
+**Wednesday September 29, 5:00 - 6:30 PM (online via [Zoom]())**
 This session will provide you with the very basics of how to read and write Python code. We'll be using the Google Collab environment to learn so no extra software installation will be required. By the end of the sessions you'll be comfortable with the basics of Python which includes: variables, conditionals, loops, and writing function.
 
 
 ### Session 2: Python and Accessing Data
 
-** Thursday September 30, 5:00 - 6:30 PM (online via [Zoom]())**
+**Thursday September 30, 5:00 - 6:30 PM (online via [Zoom]())**
 Part 2 will build on what was started in part 1. This time we'll expand our understanding of how Python works by introducing the Pandas Library and will also look at how we can build a dataset using SQL.
 
 
 ### Session 3: Python Techniques for Data Science
 
-** Wednesday October 6, 5:00 - 6:30 PM (online via [Zoom]())**
+**Wednesday October 6, 5:00 - 6:30 PM (online via [Zoom]())**
 Part 3 will focus on how can peform some analysis on our data using Python. This will include some fairly complex statistical analysis and also graphing some visualizations using the MatPlotLib Library.
 
 
 ### Session 4: Machine Learning with Python
 
-** Thursday October 7, 5:00 - 6:30 PM (online via [Zoom]())**
+**Thursday October 7, 5:00 - 6:30 PM (online via [Zoom]())**
 In the fourth and final session we will bring together everything we have learning into an investigation of machine learning and artificial intelligence. We'll build a model that will allow us to make sure predictions about our data and to draw some generalizations about the trends we find in it.
