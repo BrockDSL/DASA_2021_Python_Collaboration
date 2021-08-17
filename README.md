@@ -9,7 +9,7 @@ The Brock [DSL](https://brocku.ca/library/dsl) and Goodman [DASA](https://www.go
 
 
 
-----
+
 
 ## The Data Set
 
@@ -19,7 +19,7 @@ The dataset used for this workshop series can be found on the [UC Irvine Machine
 
 
 
-----
+
 
 
 ## Workshop Sessions
