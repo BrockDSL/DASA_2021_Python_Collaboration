@@ -39,7 +39,7 @@ This session will provide you with the very basics of how to read and write Pyth
 
 **Thursday September 30, 5:00 - 6:30 PM (online via [Zoom]())**
 
-Part 2 will build on what was started in part 1. This time we'll expand our understanding of how Python works by introducing the Pandas Library and will also look at how we can build a dataset using SQL.
+Part 2 will build on what was started in part 1. This time we'll expand our understanding of how Python works by introducing the Pandas Library and will also look at how we can build a database using SQL.
 
 
 
