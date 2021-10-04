@@ -51,6 +51,7 @@ Part 2 will build on what was started in part 1. This time we'll expand our unde
 Part 3 will focus on how can peform some analysis on our data using Python. This will include some fairly complex statistical analysis and also graphing some visualizations using the MatPlotLib Library.
 
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/DASA_2021_Python_Collaboration/blob/master/PythonOct6(4)1.ipynb)
 
 ----
 
