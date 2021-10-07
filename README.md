@@ -60,6 +60,6 @@ Part 3 will focus on how can peform some analysis on our data using Python. This
 **Thursday October 7, 5:00 - 6:30 PM (online via [Zoom](https://us02web.zoom.us/j/81973732112?pwd=Tm8rcFh3S2pWSXFtcFlrc1FRclhiUT09))**
 In the fourth and final session we will bring together everything we have learning into an investigation of machine learning and artificial intelligence. We'll build a model that will allow us to make sure predictions about our data and to draw some generalizations about the trends we find in it.
 
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/DASA_2021_Python_Collaboration/blob/master/PythonOct7.ipynb)
 
 ----
